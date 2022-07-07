@@ -1,8 +1,7 @@
 ## Olá! Sejam bem-vindos! 👋
 ### Me chamo Marcela. 
 
-![emoji](5cfeba8c97b800ed16d6dc58ea034c826411cb57e78655313b5c966edfd5be90.0.png)
-![emoji](https://github.com/MBSant/MBSant/blob/main/5cfeba8c97b800ed16d6dc58ea034c826411cb57e78655313b5c966edfd5be90.0.png)
+![Meu avatar](https://user-images.githubusercontent.com/90796936/177814327-9f78cdae-60e6-4749-8ce0-29483c2c6fda.png)
 
 <div>
   <a href = "https://www.linkedin.com/in/marcelaburmeister/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=_"blank"></a>
